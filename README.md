@@ -1,0 +1,1 @@
+This is seth's first git project!
